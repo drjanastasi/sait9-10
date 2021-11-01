@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    height: 786px;
+    background: url("homm.png" ) center center no-repeat;
+   background-size:cover;
+
+}
+.header-logo{
+    margin: top 5000px; 
+    margin: left 100px;
+}
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    size: 20%;
+    color:blanchedalmond;
+    display: flex;
+    justify-self: center;
+    margin-left: 45%;
+    margin-top: 20%;
+}
+li{
+    margin-left: 70px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+}
+a{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+p{
+    color:ivory;
+    margin-left: 46%;
+}
+button {
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px solid #ffffff; /* Green */
+    margin-left: 50%;
+    size: 200px;
+    
+
+  }
+
+.content{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.header-menu-inner{
+    display: flex;
+    margin: 10 px 15px;
+    transition: 0.5s;
+
+}
+.services{
+    background-color: wh;
+}
+.foot{
+    width: 100%;
+    height: 300px;
+    background-color: red;
+}
+h2{
+    size: 20px;
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-self: center;
+    margin-left: 45%; 
+    margin-top: 2%;   
+}
+h3{
+    size: 20px;
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-self: center;
+    margin-left: 45%; 
+    margin-top: 0%;   
+}
+h5{
+    size: 20px;
+    color:black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    justify-self: center;
+    margin-left: 42%; 
+    margin-top: 0%;   
+}
+.forcr{
+    width: 100%;
+    height: 100px;
+    display: grid; grid-auto-flow: column; grid-gap: 2px;
+    
+}
+.circel{
+   
+    background-color: rgb(255, 27, 27);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 5%;   
+    margin-left: 65%;   
+}
+.circelf{
+    border: 2px solid rgb(65, 65, 65);
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 5%; 
+    margin-left: 35%;     
+}
+.circeld{
+    border: 2px solid rgb(65, 65, 65);
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    margin: 5%; 
+    margin-left:20%;     
+}
+
+.t{
+    font-size: 40px;
+    color:white;
+    margin: 30px;
+}
+.h{
+    font-size: 50px;
+    color:rgb(255, 27, 27);
+    margin: 22px;
+}
+.d{
+    font-size: 60px;
+    color:rgb(255, 27, 27);
+    margin: 15px;
+}
+.caption1{
+    
+    margin-left: 40%;
+    font-size: 55px;
+    text-align: center;
+   
+}
+
+.name{
+    width: 100%;
+    height: 100px;
+    display: grid; grid-auto-flow: column; grid-gap: 2px;
+}
+.namein{ 
+    font-size: medium;
+     color:black;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     display: flex;
+     justify-self: center;
+     margin-left: 40%;
+     margin-right:0%; 
+     margin-top: 7%; 
+ }
+ .nametwo{
+    font-size: medium;
+     color:black;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     display: flex;
+     justify-self: center;
+     margin-left: 0%;
+     margin-right:20%; 
+     margin-top: 7%; 
+ }
+ .nametr{
+    font-size: medium;
+     color:black;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     display: flex;
+     justify-self: center;
+     margin-left: 0%;
+     margin-right:50%; 
+     margin-top: 7%; 
+ }
+ .osntext{
+    width: 100%;
+    height: 100px;
+    display: grid; grid-auto-flow: column; grid-gap: 2px;
+ }
+
+.first{
+    width: 400px;
+    height: 100px;
+    color:black;
+    margin-left: 50%;
+}
+.second{
+    width: 400px;
+    height: 100px;
+    color:black;
+    margin-left: 20%;
+}
+.third{
+    width: 400px;
+    height: 100px;
+    color:black;
+    margin-left: 0%;
+}
+.ictwitt{
+    width: 100%;
+    height: 100px;
+    display: grid; grid-auto-flow: column; grid-gap: 2px;
+}
+.circletwitterone{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid 5px white;
+    margin: 100px 0px 0px 850px;
+}
+.circletwittertwo{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid 5px white;
+    margin: 100px 0px 0px 0px;
+    
+}
+.circletwitterthree{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid 5px white;
+    margin: 100px 0px 0px 0px;
+    
+   
+}
+.circletwitterfour{
+  
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    border: solid 5px white;
+    margin: 100px 800px 0px 0px;
+}
+.twitter{
+    font-size: 30px;
+     color: white;
+
+}
+.rt{
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
